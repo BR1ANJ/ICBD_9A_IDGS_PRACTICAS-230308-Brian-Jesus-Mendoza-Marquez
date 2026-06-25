@@ -19,4 +19,4 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 
 
 Creando un punto de restauracion seguro antes de la funcion de la rama Practica03
-# ICBD_9A_IDGS_PRACTICAS-230308-Brian-Jesus-Mendoza-Marquez
+
